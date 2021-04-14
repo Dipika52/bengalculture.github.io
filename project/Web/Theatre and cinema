@@ -1,0 +1,49 @@
+<! DOCTYPE html>
+<html>
+<head>
+<title>Theatre And Cinema</title>
+<style>
+body{
+background-image:  url(".jpg") ;
+background-size: cover;
+background-attachment:scroll;
+background-position: center;
+background-repeat: no-repeat;
+
+}
+h1{
+text-align: center;
+text-shadow: 2px 2px 5px  white;
+letter-spacing: 3px;
+color: black;
+text-decoration:underline;
+}
+
+</style>
+</head>
+<body>
+<h1 style="font-size:60px;font-family: sans-serif">Theatre And Cinema</h1>
+<img src="../images/.jpg" align="left">
+<h2 align="right-top"style="font-family:sans-serif;color:darkred ;text-decoration:underline;font-size:40 ;text-shadow:2px 2px 5px white">Rabindranath Tagore :</h2>
+<p style="font-size:20px;font-style:bold;font-family: sans-serif;color: black">
+
+</p><br>
+<img src="../images/.jpg" align="right" >
+<img src="../images/.jpg" align="right">
+<h3 align="right-top"style="font-family:sans-serif;color:white ;text-decoration:underline;font-size:40;text-shadow:2px 2px black">Novels :</h3>
+<p style="font-size:20px;font-family: sans-serif;color: black">
+
+ </p>
+<br><br><br>
+<img src="../images/.jpg" align="right" >
+<h3 align="right-top"style="font-family:sans-serif;color:white ;text-decoration:underline;font-size:40;text-shadow:2px 2px black">Poems :</h3>
+<p style="font-size:20px;font-family: sans-serif;color: white">
+
+</p><br><br><br>
+<img src="../images/.jpg" align="right" >
+<h3 style="color:white;text-decoration:underline;font-family:sans-serif;font-size:40 ;text-shadow:2px 2px black">Short Stories :</h3>
+<p style="color:white;font-size:20px;font-family:sans-serif">  
+
+</p>
+</body>
+<html>
